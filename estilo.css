@@ -41,5 +41,5 @@ a {
 }
 a:hover {
     border-bottom:2px solid black;
-
+    solid: white;
 }
